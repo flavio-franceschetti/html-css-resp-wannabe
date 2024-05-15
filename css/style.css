@@ -155,11 +155,7 @@ img {
     width: 100%;
   }
 
-  .why-us .col-left {
-    width: 100%;
-  }
-
-  .why-us .col-right {
+  .why-us .col {
     width: 100%;
   }
 }
